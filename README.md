@@ -4,4 +4,5 @@
 
 - :pencil2: I’m always happy sharing my knowledge.
 
-https://img.shields.io/badge/Python-✓-brightgreen
+![Python](https://img.shields.io/badge/Python-✓-brightgreen)
+
