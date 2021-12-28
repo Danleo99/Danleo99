@@ -21,5 +21,5 @@
 ### Hardware and OS experience
 [![arduino](https://img.shields.io/badge/arduino-009aa0?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc) [![raspberry](https://img.shields.io/badge/raspberry_pi-c7053d?style=for-the-badge&logo=raspberrypi&logoColor=white)](https://www.raspberrypi.org) [![Windows](https://img.shields.io/badge/windows-00aff0?style=for-the-badge&logo=windows&logoColor=white)]() [![Linux](https://img.shields.io/badge/linux-FFA500?style=for-the-badge&logo=linux&logoColor=white)]()
 ---
-[![Daniel Stats](https://github-readme-stats.vercel.app/api?username=Danleo99&show_icons=true&count_private=true&hide_border=true&theme=github_dark)]()
+[![Daniel Stats](https://github-readme-stats.vercel.app/api?username=Danleo99&show_icons=true&count_private=true&hide_border=true&theme=github_dark)](https://github.com/Danleo99?tab=repositories)
 
