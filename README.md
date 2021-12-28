@@ -2,7 +2,9 @@
 
 **I'm a student that loves helping people, learning new things and understanding how things work.**
 
-- :pencil2: I’m always happy sharing my knowledge.
+- :apple: I’m always happy sharing my knowledge.
+- :pencil2: I'm currently learning more about everything. :rofl:
+- :goal_net: 2022 Goal: Start my first programming job.
 
 ## My knowledge💡
 
